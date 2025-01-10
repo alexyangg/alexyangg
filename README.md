@@ -4,7 +4,7 @@
 💡 I'm passionate about exploring new technologies and turning innovative ideas into reality.
 
 #### Here are some projects I'm working on:
-- [Product Store](https://github.com/alexyangg/product-store) - A full-stack web application designed for a product marketplace, allowing users to create and sell their products.
+- [ExpressMart](https://github.com/alexyangg/express-mart) - A full-stack web application designed for a product marketplace, allowing users to create and sell their products.
 - [Komorebi](https://github.com/alexyangg/discord_bot) - A multipurpose Discord bot featuring 34 commands, including advanced moderation tools and a user levelling and economy system.
 - [AutoMarket](https://github.com/alexyangg/AutoMarket) - A robust Java car marketplace application where users can view and purchase a diverse range of cars.
 
