@@ -4,6 +4,7 @@
 💡 I'm passionate about exploring new technologies and turning innovative ideas into reality.
 
 #### Here are some projects I'm working on:
+- [Patient Management System](https://github.com/alexyangg/patient-management) - A microservices-based patient management system built with Java, Spring Boot, Kafka, PostgreSQL, Docker, and AWS for scalable healthcare solutions.
 - [WasteNot](https://github.com/alexyangg/nwhacks2025) - A user-friendly web app designed to reduce food waste and insecurity by generating recipe ideas based on the ingredients you have at home.
 - [ExpressMart](https://github.com/alexyangg/express-mart) - A full-stack web application designed for a product marketplace, allowing users to create and sell their products.
 - [Komorebi](https://github.com/alexyangg/discord_bot) - A multipurpose Discord bot featuring 34 commands, including advanced moderation tools and a user levelling and economy system.
